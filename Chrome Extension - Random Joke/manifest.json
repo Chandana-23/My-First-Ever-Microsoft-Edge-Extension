@@ -1,0 +1,16 @@
+{
+    "manifest_version":2,
+    "name":"Random Jokes",
+    "description":"Generates random jokes ",
+    "version":"0.0.1",
+    "browser_action":{
+        "default_popup":"popup.html",
+        "default_icon":"icon.png"
+    },
+    "icons":{
+        "128":"icon.png"
+    },
+    "author":"Chandana Samineni",
+    "permissions":["activeTab"]
+
+}
